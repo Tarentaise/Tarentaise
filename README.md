@@ -1,3 +1,7 @@
+<h1 align="center">
+  <img title="Moo Moo, motherfucker." src="https://raw.githubusercontent.com/Tarentaise/Tarentaise/main/taren5x.gif" alt="" />
+</h1>
+
 - 👋 Hello, my name is Tarentaise.
 - 💻 I’m interested in low level and high level programming, I like to rethink the way we do things currently.
 - 🌱 I’m currently learning modern graphics programming.
@@ -13,7 +17,7 @@ Tarentaise/Tarentaise is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Tarentaise&layout=compact" width="300" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Tarentaise&count_private=true&layout=compact" width="300" />
 </a>
 <!---
 <a href="#">
