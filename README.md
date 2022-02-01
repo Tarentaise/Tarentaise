@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img title="Moo Moo, motherfucker." src="https://raw.githubusercontent.com/Tarentaise/Tarentaise/main/taren5x.gif" alt="" />
+  <img title="Moo Moo, motherfucker." src="https://raw.githubusercontent.com/Tarentaise/Tarentaise/main/taren5x3.gif" alt="" />
 </h1>
 
 - 👋 Hello, my name is Tarentaise.
