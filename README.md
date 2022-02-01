@@ -27,10 +27,10 @@ TODO: Finish Experience Tab
 --->
 
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Tarentaise&show_icons=true&count_private=true&layout=compact" width="300" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Tarentaise&show_icons=true&count_private=true&layout=compact" width="256" />
 </a>
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tarentaise&layout=compact" width="300" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tarentaise&layout=compact" width="256" />
 </a>
 
 ## Take a joke before you go!
