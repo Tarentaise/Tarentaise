@@ -22,6 +22,7 @@ C++        Rookie         ██████░░░░░░░░░░░░
 ASM        Beginner       ██░░░░░░░░░░░░░░░░░░░░░░░    
 Java       Intermediate   ████████████░░░░░░░░░░░░░   
 ```
+[More...](https://github.com/Tarentaise/Tarentaise/blob/main/LANGS.md)
 <!---
 TODO: Finish Experience Tab
 --->
