@@ -90,7 +90,7 @@ HSP            Hot Soup Processor is such a funny name, a couple games I've play
 ### Languages I'm not interested in.
 ```
 Visual Basic   This thing looks horrendous, I hope to never touch it.
-Classic VB     See above[0].
+Classic VB     See above[0]
 VBA            See above[0]
 PHP+SQL        I've worked with it before, I just don't like it, I'm fine if you like it but for me it conflicts with my entire process of programming.
 COBOL          It just doesn't have a place in my workflow.
