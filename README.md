@@ -4,7 +4,7 @@
 <h2><img src="https://raw.githubusercontent.com/Tarentaise/Tarentaise/main/wavefinal.png"> Hello, my name is Tarentaise. </h2> <img align='right' src="https://raw.githubusercontent.com/Tarentaise/Tarentaise/main/programming.gif" width="230">
 
 - <img src="https://raw.githubusercontent.com/Tarentaise/Tarentaise/main/computer.png" width="16"> I’m interested in low level and high level programming, I like to rethink the way we do things currently.
-- <img src="https://raw.githubusercontent.com/Tarentaise/Tarentaise/main/bookfix.png" width="16"> I’m currently learning modern graphics programming.
+- <img src="https://raw.githubusercontent.com/Tarentaise/Tarentaise/main/bookfix.png" width="16"> I’m currently learning C++.
 - <img src="https://raw.githubusercontent.com/Tarentaise/Tarentaise/main/peoplefix.png" width="16"> I’m looking to collaborate on open source projects, operating systems, homebrew and hax.
 - <img src="https://raw.githubusercontent.com/Tarentaise/Tarentaise/main/art.png" width="16"> I think programming/coding is a form of art, your code should be as clean and simple as possible and easy to maintain, like a well painted piece.
 - <img src="https://raw.githubusercontent.com/Tarentaise/Tarentaise/main/work.png" width="16"> I am currently working on some porting projects and decompilation projects.
