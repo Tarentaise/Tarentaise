@@ -102,5 +102,9 @@ Q
 Red
 RPG
 J
+Scala
+Elm
+OCaml
+
 ```
 <!-- Todo: add more langs I'm not interested in. -->
